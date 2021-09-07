@@ -29,6 +29,7 @@ end
 
 hi "jinwoo"
 hi
+hi()
 
 #class Greeter
 class Greeter
